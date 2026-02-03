@@ -17,7 +17,7 @@
 
 :root {
     --color-primary: #f86300;
-    --gradient: linear-gradient(90deg, var(--color-primary) 0%, #da6200 100%);
+    --gradient: linear-gradient(90deg, var(--color-primary) 0%, #e46b09 100%);
     /* Light Mode - Reordered (Primary = Darkest) */
     --bg-primary: rgb(212, 212, 212);
     --bg-secondary: rgb(224, 224, 224);
