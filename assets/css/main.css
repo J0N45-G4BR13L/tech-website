@@ -16,8 +16,8 @@
 /* ==================================================== */
 
 :root {
-    --color-primary: #ff6017;
-    --gradient: linear-gradient(90deg, var(--color-primary) 0%, #ff8410 100%);
+    --color-primary: #ff5a0d;
+    --gradient: linear-gradient(90deg, var(--color-primary) 0%, #ff7300 100%);
     /* Light Mode - Reordered (Primary = Darkest) */
     --bg-primary: rgb(212, 212, 212);
     --bg-secondary: rgb(224, 224, 224);
@@ -25,7 +25,7 @@
     --text-primary: rgb(31, 41, 53);
 
     /* Hero Filter Light Mode - Darkest at bottom */
-    --hero-filter: linear-gradient(to bottom, rgba(194, 194, 194, 0.8), rgba(163, 163, 163, 0.8));
+    --hero-filter: linear-gradient(to bottom, rgba(194, 194, 194, 0.9), rgba(163, 163, 163, 0.9));
 
     --transition: all 0.3s ease;
 }
