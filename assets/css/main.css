@@ -699,7 +699,7 @@ img {
     -webkit-text-fill-color: transparent;
     color: var(--color-primary);
     font-weight: 800;
-    text-shadow: 0 1px 4px rgba(32, 32, 32, 0.01);
+    text-shadow: 0 1px 4px rgba(17, 17, 17, 0.01);
 
 }
 
