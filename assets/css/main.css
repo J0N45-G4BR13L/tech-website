@@ -16,7 +16,7 @@
 /* ==================================================== */
 
 :root {
-    --color-primary: #f76a0d;
+    --color-primary: #d15706;
     --gradient: linear-gradient(90deg, var(--color-primary) 0%, #ff7300 100%);
     /* Light Mode - Reordered (Primary = Darkest) */
     --bg-primary: rgb(212, 212, 212);
